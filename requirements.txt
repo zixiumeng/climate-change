@@ -1,0 +1,14 @@
+# CSC110 Fall 2020: Python libraries we'll be using this semester.
+
+# Library for data manipulation
+scikit-learn
+matplotlib
+numpy
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta
+
+# Graphics and data visualization
+plotly
